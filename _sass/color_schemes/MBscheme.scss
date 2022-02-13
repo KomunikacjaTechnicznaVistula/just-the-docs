@@ -151,3 +151,9 @@ $media-queries: (
   lg: $content-width + $nav-width,
   xl: 1400px,
 ) !default;
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
