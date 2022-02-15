@@ -71,8 +71,8 @@ $red-200: #e94c4c !default;
 $red-300: #dd2e2e !default;
 
 $body-background-color: $white !default;
-$sidebar-color: $grey-lt-000 !default;
-$search-background-color: $white !default;
+$sidebar-color: $green-300 !default;
+$search-background-color: $red-300 !default;
 $table-background-color: $white !default;
 $code-background-color: $grey-lt-000 !default;
 $feedback-color: darken($sidebar-color, 3%) !default;
@@ -81,7 +81,7 @@ $body-text-color: $yellow-300 !default;
 $body-heading-color: $grey-dk-300 !default;
 $search-result-preview-color: $grey-dk-000 !default;
 $nav-child-link-color: $grey-dk-100 !default;
-$link-color: $blue-300;
+$link-color: $blue-000;
 $btn-primary-color: $blue-300;
 $base-button-color: #f7f7f7 !default;
 
