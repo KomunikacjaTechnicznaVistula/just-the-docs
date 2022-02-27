@@ -70,10 +70,15 @@ $red-100: #f96e65 !default;
 $red-200: #e94c4c !default;
 $red-300: #dd2e2e !default;
 
-$body-background-color: $blue-000 !default;
-$sidebar-color: $green-100;
-$search-background-color: $white !default;
-$table-background-color: $white !default;
+$custom-01: #df96ae !default;
+$custom-02: #9b5120 !default;
+$custom-03: #477956 !default;
+$custom-04: #909ab1 !default;
+
+$body-background-color: $custom-04;
+$sidebar-color: $custom-01;
+$search-background-color: $custom-02;
+$table-background-color: $custom-03;
 $code-background-color: $grey-lt-000 !default;
 $feedback-color: darken($sidebar-color, 3%) !default;
 
